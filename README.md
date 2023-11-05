@@ -2,8 +2,7 @@
 ## 🕹️ Ethiopia
 **`Software Engineer(MERN Stack) | Full  Stack Web Dev `**
 
-I was the student other kids went to at my high school when they had problems with their laptop or phone. I was the go-to guy to solve any technological issues. 👲 Not much has changed since then. I continue to be the go-to guy for technical issues. The difference is that I now develop ground-breaking softwares to address the issues you face.
-
+A Passionate software engineer experienced in React, Node.js, and MongoDB. Building web apps with React's magic, powering them with Node.js awesomeness, and storing data in the wild world of MongoDB. Love crafting clean code and collaborating with teams to create delightful experiences.
 ---
 
 ### 🛠 Languages and tools
