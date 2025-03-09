@@ -2,7 +2,7 @@
 ## 🕹️ Ethiopia
 **`Software Engineer(MERN Stack) | Full  Stack Web Dev `**
 
-A Passionate software engineer experienced in React, Node.js, and MongoDB. Building web apps with React's magic, powering them with Node.js awesomeness, and storing data in the wild world of MongoDB. Love crafting clean code and collaborating with teams to create delightful experiences.
+A Passionate software engineer experienced in React, Node.js, React Native, Nextjs, Prisma, Postgress and MongoDB. Building web apps with React's magic, powering them with Node.js awesomeness, and storing data in the wild world of MongoDB. Love crafting clean code and collaborating with teams to create delightful experiences.
 ---
 
 ### 🛠 Languages and tools
